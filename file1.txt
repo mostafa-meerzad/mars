@@ -1,1 +1,2 @@
 hello
+here is the new line from another contributor
