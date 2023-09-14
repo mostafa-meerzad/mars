@@ -1,1 +1,3 @@
 some text to test the git
+
+changes from the feature/color branch
